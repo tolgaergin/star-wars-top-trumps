@@ -12,7 +12,7 @@ One of the important thing in the test is selecting random people or starships.
 SWAPI Api has 3 endpoints for People and Starship.
 
 - /starships/ => which returns only 10 records of 37 in one request
-- /starships/:id/ => which returns only 10 records of 87 in one request
+- /starships/:id/ => which returns only 1 records of 87 in one request
 - /starships/schema/
 
 To get a random starship or people, I had two options.
