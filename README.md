@@ -41,7 +41,7 @@ Every time user plays a game whether starships or people battle, I'm making a re
 - First round the game will pick 2 (or more) random starships in 10 starships. (added new 10 records to my store)
 - Second round the game will pick 2 (or more) random starships in 20 starships. (added new 10 records to my store)
 - Third round the game will pick 2 (or more) random starships in 30 starships. (added new 10 records to my store)
-- Fourth round the game will pick 2 (or more) random starships in 37 starships. And finally the application doesnt need to make another request to the server so because I aggreated all the data from the server to the redux store.
+- Fourth round the game will pick 2 (or more) random starships in 37 starships. And finally the application doesnt need to make another request to the server so because I populated all the data from the server to the redux store.
 
 ### Playing the game
 
